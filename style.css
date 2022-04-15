@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+header {
+    background-color: #1F2421;
+    height: 200px;
+    width: 100%;
+}
+header .titulo h1 {
+    bottom: 100px;
+    text-align: center;
+    padding: 70px;
+    color: #7DBBC3;
+    font-weight: bold;
+}
+.contenido {
+    width: 100%;
+    height: 100vh;
+    background-color: #7DBBC3;
+}
+#monto {
+    background-color: #ACBED8;
+}
+#resultado {
+    background-color: #ACBED8;
+}
+#cambio1 {
+    background-color: #ACBED8;
+}
+#cambio2 {
+    background-color: #ACBED8;
+}
+#enviar {
+    background-color: #1F2421;
+    color: #7DBBC3;
+}
